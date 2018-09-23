@@ -1,0 +1,16 @@
+name: cos535
+channels:
+  - defaults
+  - conda-forge
+  - brainiak
+dependencies:
+  - numpy
+  - scipy
+  - scikit-learn
+  - ipython
+  - jupyter
+  - pytest
+  - neovim
+  - flake8
+  - matplotlib
+  - cython
